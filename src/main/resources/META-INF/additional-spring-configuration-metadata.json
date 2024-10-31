@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "mysql.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.url'"
+  },
+  {
+    "name": "mysql.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.url'"
+  },
+  {
+    "name": "mysql.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.url'"
+  },
+  {
+    "name": "jwt.expirationTime",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expirationTime'"
+  },
+  {
+    "name": "jwt.secretkey",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expirationTime'"
+  }
+]}
